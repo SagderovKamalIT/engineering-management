@@ -936,7 +936,7 @@ a {
   text-align: center;
 }
 .directions__container {
-  background: url(/engineering-management/assets/icons/directions-background) no-repeat;
+  background: url(/engineering-management/assets/icons/directions-background.svg) no-repeat;
   background-size: contain;
   background-position: center;
   width: auto;
@@ -952,7 +952,7 @@ a {
     margin-bottom: 3rem;
   }
   .directions__container {
-    background: url(/engineering-management/assets/icons/directions-background-tablet) no-repeat;
+    background: url(/engineering-management/assets/icons/directions-background-tablet.svg) no-repeat;
     background-size: contain;
     background-position: center;
     width: auto;
@@ -970,7 +970,7 @@ a {
   }
   .directions__container {
     position: absolute;
-    background-image: url(/engineering-management/assets/icons/directions-background-mobile);
+    background-image: url(/engineering-management/assets/icons/directions-background-mobile.svg);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: left 0 bottom 0;

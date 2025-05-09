@@ -13,7 +13,7 @@
   }
 
   &__container {
-    background: url(#{$base-url}/assets/icons/directions-background) no-repeat;
+    background: url(#{$base-url}/assets/icons/directions-background.svg) no-repeat;
     background-size: contain;
     background-position: center;
     width: auto;
@@ -32,7 +32,8 @@
     }
   
     &__container {
-      background: url(#{$base-url}/assets/icons/directions-background-tablet) no-repeat;
+
+      background: url(#{$base-url}/assets/icons/directions-background-tablet.svg) no-repeat;
       background-size: contain;
       background-position: center;
       width: auto;
@@ -54,7 +55,7 @@
   
     &__container {
       position: absolute;
-      background-image: url(#{$base-url}/assets/icons/directions-background-mobile);
+      background-image: url(#{$base-url}/assets/icons/directions-background-mobile.svg);
       background-repeat: no-repeat;
       background-size: contain;
       background-position: left 0 bottom 0;
