@@ -1,6 +1,5 @@
 .grant {
   padding: 3.813rem 0 5.375rem 0;
-  // background: url(../../assets/img/student-grant.png) no-repeat;
   background: url(#{$base-url}/assets/img/student-grant.png) no-repeat;
   background-size: 33rem 22.813rem;
   background-position: right 3rem bottom 5.375rem;
@@ -52,7 +51,6 @@
 @media (max-width: 1024px) {
   .grant {
     padding: 4.75rem 0 4.375rem 0;
-    // background: url(../../assets/img/student-grant.png) no-repeat;
     background: url(#{$base-url}/assets/img/student-grant.png) no-repeat;
     background-size: 25rem 17.375rem;
     background-position: right 2.5rem bottom 4.375rem;
@@ -95,7 +93,6 @@
 @media (max-width: 460px) {
   .grant {
     padding: 1.938rem 0 15.75rem 0;
-    // background: url(../../assets/img/student-grant.png) no-repeat;
     background: url(#{$base-url}/assets/img/student-grant.png) no-repeat;
     background-size: 20.375rem 13.688rem;
     background-position: center bottom 1rem;

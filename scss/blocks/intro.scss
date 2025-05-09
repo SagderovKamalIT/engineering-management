@@ -1,6 +1,5 @@
 .intro {
   padding: 11.938rem 0 3.438rem 0;
-  // background: url(../../assets/icons/intro-technology-line.svg), url(../../assets/icons/intro-future-line.svg);
   background: url(#{$base-url}/assets/icons/intro-technology-line.svg), url(#{$base-url}/assets/icons/intro-future-line.svg);
   background-repeat: no-repeat, no-repeat;
   background-position: left -5rem bottom 22rem, right 6rem  bottom 15.5rem;
@@ -63,7 +62,6 @@ margin-bottom: 0.5rem;
 @media (max-width: 1024px) {
   .intro {
     padding: 8.875rem 0 2.5rem 0;
-    // background: url(../../assets/icons/intro-technology-line-tablet.svg), url(../../assets/icons/intro-future-line-tablet.svg);
     background: url(#{$base-url}/assets/icons/intro-technology-line-tablet.svg), url(#{$base-url}/assets/icons/intro-future-line-tablet.svg);
     background-repeat: no-repeat, no-repeat;
     background-position: left -5rem bottom 13.8rem, right -2rem bottom 8.375rem;
@@ -108,7 +106,6 @@ margin-bottom: 0.5rem;
 @media (max-width: 460px) {
   .intro {
     padding: 8.688rem 0 1.563rem 0;
-    // background: url(../../assets/icons/intro-technology-line-tablet.svg), url(../../assets/icons/intro-future-line-tablet.svg);
     background: url(#{$base-url}/assets/icons/intro-technology-line-tablet.svg), url(#{$base-url}/assets/icons/intro-future-line-tablet.svg);
     background-repeat: no-repeat, no-repeat;
     background-position: left -15rem bottom 9.3rem, right -15rem bottom 6.5rem;

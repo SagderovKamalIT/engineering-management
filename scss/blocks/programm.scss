@@ -6,7 +6,6 @@
   &::before {
     position: absolute;
     content: '';
-    // background-image: url(../../assets/icons/programm-background.svg);
     background-image: url(#{$base-url}/assets/icons/programm-background.svg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -42,7 +41,6 @@
     &::before {
       position: absolute;
       content: '';
-      // background-image: url(../../assets/icons/programm-background.svg);
       background-image: url(#{$base-url}/assets/icons/programm-background.svg);
       background-repeat: no-repeat;
       background-size: cover;
@@ -70,7 +68,6 @@
     &::before {
       position: absolute;
       content: '';
-      // background-image: url(../../assets/icons/programm-backgroung-mobile.svg);
       background-image: url(#{$base-url}/assets/icons/programm-backgroung-mobile.svg);
       background-repeat: no-repeat;
       background-size: cover;

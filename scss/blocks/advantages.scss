@@ -1,6 +1,5 @@
 .advantages {
   padding: 3.063rem 0 7.188rem 0;
-  // background: url(../../assets/img/paper-background.png) no-repeat;
   background: url(#{$base-url}/assets/img/paper-background.png) no-repeat;
   background-size: cover;
 
@@ -55,7 +54,6 @@
 @media (max-width: 1024px) {
   .advantages {
     padding: 3rem 0 4.5rem 0;
-    // background: url(../../assets/img/paper-background-tablet.png) no-repeat;
     background: url(#{$base-url}/assets/img/paper-background-tablet.png) no-repeat;
     background-size: cover;
     
@@ -93,7 +91,6 @@
 @media (max-width: 460px) {
   .advantages {
     padding: 3rem 0 2.813rem 0;
-    // background: url(../../assets/img/paper-background-mobile.png) no-repeat;
     background: url(#{$base-url}/assets/img/paper-background-mobile.png) no-repeat;
     background-size: cover;
     

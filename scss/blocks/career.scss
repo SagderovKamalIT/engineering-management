@@ -17,7 +17,6 @@
   }
 
   &::before {
-    // background: url(../../assets/icons/star.svg) no-repeat;
     background: url(#{$base-url}/assets/icons/star.svg) no-repeat;
     background-size: contain;
     left: -6.25rem; 
@@ -26,7 +25,6 @@
   }
 
   &::after {
-    // background: url(../../assets/icons/star.svg) no-repeat;
     background: url(#{$base-url}/assets/icons/star.svg) no-repeat;
     background-size: contain;
     right: -6.25rem;
